@@ -1,0 +1,60 @@
+id: "6"
+title: "2nd meeting of the CoopBioPlat project"
+type: Workshop
+description: <p class="text-justify">CoopBioPlat brought together GBIF nodes in Argentina (SNDB), Brazil (SiBBr), Costa Rica (CRBio), France, Portugal and Spain to produce an institutional agreement to cooperate on developing national biodiversity data portals based on the ALA portal. The meeting also aimed to further the customization of the ALA Platform by GBIF Nodes. This 2nd meeting focused on IT developments. Developers among the project’s partners were assisted at the meeting by David Martin from ALA.</p>
+    <p class="text-justify">CoopBioPlat was a Pilot Coordination Action, funded by ERANet-LAC of the European Commission, and was implemented over 18 months.</p>
+    <p class="text-justify">More information is available on the website of GBIF Spain.</p>
+date: October 20, 2015 - October 23, 2015
+place: Madrid, Spain - Royal Botanical Garden
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Dave Martin (Atlas of Living Australia)"
+  title: "Atlas of Living Scotland: setup and deployment"
+  link: "5-ALS-setup-deployment.pdf"
+  type: "talk"
+  ext: false
+
+- id: "2"
+  speaker: "Santiago Martinez de la Riva (GBIF Spain)"
+  title: "Biodiversity platform of GBIF Spain based on ALA: current state"
+  link: "5-CoopBioPlat-GBIF-SPAIN.pdf"
+  type: "Talk"
+  ext: false
+
+- id: "3"
+  speaker: "Luis Eugenio Barbosa (GBIF Brazil)"
+  title: "CoopBioPlat: Brazil status"
+  link: ""
+  type: "Talk"
+
+- id: "4"
+  speaker: "Miguel Carboni (GBIF Argentina)"
+  title: "CoopBioPlat - Argentina Status"
+  link: "5-CoopBioPlat-Argentina-Status.pdf"
+  type: "Talk"
+  ext: false
+
+- id: "5"
+  speaker: "Rui Figueira (GBIF Portugal)"
+  title: "GBIF.PT report"
+  link: "5-CoopBioPlat_pt_report.pdf"
+  type: "Talk"
+  ext: false
+
+- id: "6"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Atlas of Living France (ALF)"
+  link: "5-ALF.pdf"
+  type: "Talk"
+  ext: false
+
+- id: "7"
+  speaker: "Paco Pando (GBIF Spain), <br />Rui Figueira (GBIF Portugal), <br />David Martin (Atlas of Living Australia), <br />Marie-Elise Lecoq (GBIF France), <br />Fabien Cavière (GBIF France), <br />Santiago Martinez de la Riva (GBIF Spain), <br />Miguel Carboni (Ministry of Science and Technology, Argentina), <br />Luis Eugênio Barbosa (GBIF Brazil)."
+  title: "CoopBioPlat - Madrid 2015"
+  link: "https://www.youtube.com/watch?v=molYVbldkwM&feature=youtu.be"
+  ext: true
+  type: "Video"
+
+

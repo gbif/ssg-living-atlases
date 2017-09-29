@@ -1,0 +1,21 @@
+id: "7"
+title: "TDWG 2015: Applications, Standards and Capacity Building for Sustaining Global Biodiversity"
+type: Conference
+description: <p class="text-justify">During the conference, GBIF France team with the help of the community presented the Living Atlases as well as the Atlas of Living Australia modules. Through a poster and a talk, GBIF France technical team was able to describe an existing example of national data portal based on  ALA platform.</p>
+date: September 28, 2015 - October 1, 2015
+place: Nairobi, Kenya - Windsor Golf and Country Club
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "<b>Marie-Elise Lecoq (GBIF France)</b>, <br /> Dave Martin (Atlas of Living Australia), <br /> Tim Robertson (GBIF)."
+  title: "Atlas of Living Australia: a modular data portal framework for national needs"
+  link: "6-TDWG-talk.pdf"
+  type: "Talk"
+  ext: false
+- id: "2"
+  speaker: "Marie-Elise Lecoq (GBIF France), <br /> Anne-Sophie Archambeau (GBIF France), <br /> Eric Chenin (IRD - GBIF France), <br /> Fabien Cavière (GBIF France), <br /> Sophie Pamerlon (GBIF France), <br /> Régine Vignes-Lebbe (UPMC - GBIF France)."
+  title: "The GBIF France new portal : Atlas of Living France (ALF)"
+  link: "6-ALF-poster.pdf"
+  type: "Poster"
+  ext: false

@@ -1,0 +1,21 @@
+id: "15"
+title: "TDWG 2016: Standards Supporting Innovation in Biodiversity Research and Conservation"
+type: Conference
+description: <p class="text-justify">During the conference, GBIF France team with the help of the community presented the Living Atlases as well as the Atlas of Living Australia modules. Through a talk, GBIF France technical team was able to describe an existing example of national data portal based on ALA platform in order to show how it works for potential future users of these tools. The community wrote its first poster showing its members and its projects. </p>
+date: December 5, 2016 - December 9, 2016
+place: Santa Clara de San Carlos, Costa Rica - Tecnológico de Costa Rica (TEC)
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "<b>Marie-Elise Lecoq (GBIF France)</b>, <br /> Anne-Sophie Archambeau (GBIF France), <br /> Eric Chenin (IRD - GBIF France), <br /> Fabien Cavière (GBIF France), <br /> Sophie Pamerlon (GBIF France), <br /> Régine Vignes-Lebbe (UPMC - GBIF France)."
+  title: www.gbif.fr - French National Portal of GBIF
+  link: "11-Lecoq-ALF.pdf"
+  type: "Talk"
+  ext: false
+- id: "2"
+  speaker: "Marie-Elise Lecoq (GBIF France), <br/> Miguel Carboni (Sistema Nacional de Datos Biológicos), <br/> Fabien Cavière (GBIF France), <br/> Rui Figueira (GBIF Portugal), <br/> Santiago Martinez de la Riva (GBIF Spain), <br/> David Martin (Atlas of Living Australia)"
+  title: "The community around Atlas of Living Australia's platform"
+  link: "11-poster-community.pdf"
+  type: "Poster"
+  ext: false

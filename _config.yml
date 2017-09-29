@@ -1,0 +1,75 @@
+
+# Setup
+title:               Living Atlases
+email:               informatics@gbif.org
+tagline:             Living Atlases community
+# url:                 "https://melecoq.github.io/Living-Atlases-website/" # insert your site's URL
+# baseurl:             "https://melecoq.github.io/Living-Atlases-website/"
+# url: 
+# site.github.url: "https://melecoq.github.io/Living-Atlases-website"
+
+url:                 "https://living-atlases.gbif.org"
+baseurl:             "https://living-atlases.gbif.org"
+
+encoding: utf-8
+
+# About/contact
+author: # you can edit these to be your personal details
+  name:              GBIF France
+  url:               https://twitter.com/gbiffrance
+  email:
+
+# Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
+google_analytics:
+google_tag_manager:
+# Bing services
+bing_verification:
+
+# Social
+github_username: gbif
+twitter_username: gbif
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/kevit/devaid-jekyll-theme
+
+# Gems - Dependencies for this theme
+plugins:
+  - github-pages
+
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+
+widgets:
+  - title: Introduction
+    archor: intro
+    url: '#intro'
+    pages: 
+      - name: Home
+  - title: Documentation & Links
+    archor: docs
+    url: '#docs'
+    pages: 
+      - name: Home
+  - title: Participants
+    archor: participants
+    url: '#participants'
+    pages: 
+      - name: Home
+  - title: Contact
+    archor: contact
+    url: '#contact'
+    pages: 
+      - name: Home
+      - name: Events
+  - title: Events
+    archor: events
+    url: events
+    pages: 
+      - name: Events

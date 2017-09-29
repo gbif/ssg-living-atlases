@@ -1,0 +1,15 @@
+id: "10"
+title: "Launch of the NBN Atlas Scotland (27/05/2016)"
+type: Portal
+description: <p class="text-justify">The NBN Atlas Scotland has been made possible by the partnership formed by SNH, Scotland’s Environment Web (SEWeb), the Atlas of Living Australia and the Commonwealth Scientific and Industrial Research Organisation of Australia (CSIRO), Scottish Environment Protection Agency (SEPA), the NBN Trust, RSPB and the Scottish Biodiversity Information Forum (SBIF), with funding from the SEWeb LIFE+ project and SNH. </p>
+date: May 27, 2016 
+place: Edinburgh, UK - Royal Botanic Gardens 
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "David Martin, CSIRO / ALA"
+  title: "NBN Atlas Scotland"
+  link: "https://scotland.nbnatlas.org/"
+  type: "Portal"
+  ext: true 

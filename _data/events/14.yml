@@ -1,0 +1,15 @@
+id: "14"
+title: "Biodiversity Data Portal of Portugal in production (18/10/2016)"
+type: Portal
+description: <p class="text-justify">Since 2015, GBIF Portugal is an active member of the ALA community. Thanks several workshops and partnership with other participants, they were able to launch their new data portal in production in October 2016.  </p>
+date: October 19, 2016 
+place: Lisbon, Portugal 
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: ""
+  title: "Biodiversity Data Portal of Portugal "
+  link: "http://dados.gbif.pt/"
+  type: "Portal"
+  ext: true 

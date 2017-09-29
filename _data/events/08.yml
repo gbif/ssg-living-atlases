@@ -1,0 +1,15 @@
+id: "8"
+title: "Public Symposium, GB22"
+type: Conference
+description: <p class="text-justify">Paco Pando, former GBIF Spain node manager, talked about the power of a open source platform and collaborations linked to it for the entire open source community around the biodiversity during the public symposium of the GBIF Governing Board in 2015. </p>
+date: October 9, 2015 
+place: Antananarivo, Madagascar - International Conference Center of Ivato
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Paco Pando (GBIF Spain)"
+  title: "Atlas of Living Australia for GBIF Nodes: A collaborative endeavor"
+  link: "7-ALA-for-nodes.pdf"
+  type: "Talk"
+ext: false

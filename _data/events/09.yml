@@ -1,0 +1,15 @@
+id: "9"
+title: "CRBio: Atlas of Living Costa Rica in production (1/05/2016)"
+type: Portal
+description: <p class="text-justify">Thanks to the help of Atlas of Living Australia and GBIF, the National Biodiversity Institute of Costa Rica (INBio) implemented a new portal based on ALA tools. The Atlas of Living Costa Rica (CRBio) has been financed by a project grant of the Costa Rican government. </p>
+date: May 1, 2016 
+place: Paris, France - Muséum national d'Histoire naturelle
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: ""
+  title: "CRBio: Atlas of Living Costa Rica"
+  link: "http://www.crbio.cr/"
+  type: "Portal"
+  ext: true 

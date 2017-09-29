@@ -1,0 +1,11 @@
+id: "21"
+title: "Reusing an open source platform in order to create a community: example of the Living Atlases community (TDWG)"
+type: Workshop
+description: <p class="text-justify">Since 2013, a community has grown around the Atlas of Living Australia (ALA) open source platform, mostly but not exclusively around GBIF nodes. Indeed, since 2014 five international workshops have been organized around the world and eight data portals have been released into production using this tool (ALA, Brazil, GBIF Argentina, INBio, GBIF France, NBN, GBIF Spain, GBIF Portugal) and several others are currently in development (Canadensys, GBIF Sweden, etc.). </p>
+    <p class="text-justify">ALA modules work with standards defined by the TDWG community. Data shown on maps are loaded through Darwin Core Archive files previously published on IPT installations or directly downloaded on the GBIF.org. Users can filter, download occurrences and can also interact with data using API, proposed by the platform. We keep the data authority and highlight data publishers, institutions, collections and datasets by showing their metadata. </p>
+    <p class="text-justify">One of the main objectives of this workshop will be to present the community of Living Atlases by showing examples already in production (Atlas of Living Australia, GBIF France, GBIF Spain and NBN Atlas Scotland), and past & future projects involving the community. In addition, we expect to train participants on the basic ALA modules (Collectory and Biocache-hub) that focus on occurrence research tools, data visualization and metadata portal. This technical training will also include the installation of an ALA demo version in order to give the possibility to users to make their first configurations and developments of their new tool.</p>
+    <p class="text-justify">The six organizers will be David Martin from Atlas of Living Australia, Christian Gendreau, Jeremy Goimard from Canadensys, Marie-Elise Lecoq from GBIF France, Santiago Martínez de la Riva from GBIF Spain and Manash Shah from GBIF Sweden. </p>
+date: October 3, 2017 - October 4, 2017
+place: Ottawa, Canada - Delta Hotels Ottawa City Centre by Marriott 
+valide: true
+presentation: false

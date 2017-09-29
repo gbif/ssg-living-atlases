@@ -1,0 +1,70 @@
+id: "13"
+title: "International ALA Workshop 2016"
+type: Workshop
+description: <p class="text-justify">The 3-day International ALA Workshop was held in Madrid (Spain) between the 3rd and 5th of October 2016. This workshop brought together software developers from GBIF Nodes of Australia, France, Germany, Mexico, Portugal, Spain, Sweden as well as the member organization Canadensys to enhance the development of national data portals based on the Atlas of Living Australia (<a href="http://www.ala.org.au" target="_blank">ALA</a>). The Australian, French and Spanish Nodes  assisted the other Nodes based on their previous experience. The host for this course was GBIF Spain (<a href="http://www.gbif.es" target="_blank">GBIF.ES</a>).</p> <p> Following this 3-day workshop, a 2-day workshop was proposed for members of the CoopBioPlat project. The main goal was to review the state of each national data portal based on ALA and move forward on the developments of Species and Geospatial modules.</p>
+date: October 3, 2016 - October 7, 2016
+place: Madrid, Spain - Royal Botanical Garden (CSIC)
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Jérémy Goinard (Canadensys)"
+  title: "Canadensys on read to Atlas of Living Australia"
+  link: "10-Canadensys-ALA.pdf"
+  type: "Talk"
+  ext: false
+- id: "2"
+  speaker: "Manash Shah (GBIF Sweden)"
+  title: "Atlas of Living Australia Integration GBIF Sweden"
+  link: "10-ala-gbif-sweden.pdf"
+  type: "Talk"
+  ext: false
+- id: "3"
+  speaker: "Santiago Martinez de la Riva (GBIF Spain)"
+  title: "International ALA Workshop: current status, biocache-hub, taxonomy, security, internationalization and future steps"
+  link: "10-ala-workshop-sp.pdf"
+  type: "Talk"
+  ext: false
+- id: "4"
+  speaker: "Jörg Holetschek (GBIF Germany - BGBM)"
+  title: "GBIF Germany and ALA implementation"
+  link: "10-ALA-Workshop-BGBM.pdf"
+  type: "Talk"
+  ext: false
+- id: "5"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Atlas of Living France"
+  link: "10-GBIF-France.pdf"
+  type: "Talk"
+  ext: false
+- id: "6"
+  speaker: "Fabien Cavière (GBIF France)"
+  title: "Documentation & wiki of ALA"
+  link: "10-Documentation.pdf"
+  type: "Talk"
+  ext: false
+- id: "7"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Collectory module"
+  link: "10-Collectory.pdf"
+  type: "Talk"
+  ext: false
+- id: "8"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Skinning your ALA instance"
+  link: "10-Customization.pdf"
+  type: "Talk"
+  ext: false
+- id: "9"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Security in ALF"
+  link: "10-Security.pdf"
+  type: "Talk"
+  ext: false
+- id: "10"
+  speaker: "David Martin (ALA)"
+  title: "International ALA workshop"
+  link: "10-ALA-Madrid-DM.pdf"
+  type: "Talk"
+  ext: false
+

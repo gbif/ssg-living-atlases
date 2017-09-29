@@ -1,0 +1,15 @@
+id: "3"
+title: "GBIF.ES National Biodiversity Data Portal in production (28/11/2014)"
+type: Portal
+description: <p class="text-justify">Since the beginning, GBIF Spain has been part of the ALA community. They have worked on the Spanish National Biodiviersity Data portal of GBIF for several months before launching it in production. The data portal is available in Spanish, Catalan and English.</p>
+date: November 28th, 2014 
+place: Madrid, Spain - Real Jardín Botánico-CSIC
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Santiago Martinez de la Riva"
+  title: "The GBIF.ES National Biodiversity Data Portal "
+  link: "https://datos.gbif.es/"
+  type: "Portal"
+  ext: true 

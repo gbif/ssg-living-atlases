@@ -1,0 +1,15 @@
+id: "5"
+title: "GBIF France data portal in production (28/05/2015)"
+type: Portal
+description: <p class="text-justify">Since the Atlas of Living Australia workshop, GBIF France technical team has worked on the national GBIF data portal based on Atlas of living Australia. For this release,they installed the registry and biocache modules. They launched this new tool during the GBIF France annual steering comity.</p>
+date: May 28, 2015 
+place: Paris, France - Muséum national d'Histoire naturelle
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Marie-Elise Lecoq, <br /> Fabien Cavière."
+  title: "The French GBIF national data portal (Atlas of Living France)"
+  link: "http://portail.gbif.fr"
+  type: "Portal"
+  ext: true 

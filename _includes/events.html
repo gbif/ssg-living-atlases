@@ -1,0 +1,76 @@
+    <!-- ******EVENT****** --> 
+    <section id="events" class="modules events section">
+        <div class="container">  
+            <h2 class="title text-center">Living Atlases events</h2>  
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                {% assign sorted_pages = (site.data.events | sort) %}
+                {% for event_hash in sorted_pages reversed %}
+                {% assign event = event_hash[1] %}
+                    <div class="panel panel-default">
+                            <div class="button panel-heading" data-toggle="collapse" data-target="#{{ event.id }}">
+                                {% if event.type=="Portal" %}
+                                    <span class="back-event back-event-portal">{{ event.type }}</span> {{ event.title }}
+                                {% elsif event.type=="Workshop" %}
+                                    <span class="back-event back-event-workshop">{{ event.type }}</span> {{ event.title }}
+                                {% elsif event.type=="Conference" %}
+                                    <span class="back-event back-event-conference">{{ event.type }}</span> {{ event.title }}
+                                {% elsif event.type=="Meeting" %}
+                                    <span class="back-event back-event-meeting">{{ event.type }}</span> {{ event.title }}
+                                {% endif %}
+                            </div> 
+                        {% if event.valide==true %}
+                            <div id="{{ event.id }}" class="panel-collapse collapse in">
+                        {% elsif event.valide==false %}
+                            <div id="{{ event.id }}" class="panel-collapse collapse ">
+                        {% endif %}  
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="panel-body"> <i class="fa fa-calendar"></i> {{ event.date }}</div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="panel-body"><i class="fa fa-map-marker"></i> {{ event.place }} </div>
+                                </div>
+                            </div>
+                            <div class="panel-body">{{ event.description }}</div>
+                            {% if event.presentation == true %}
+                             <table class="table panel-body">
+                                <thead>
+                                    <tr>
+                                        <th class="event-table-1" style="width:45%">Title</th>
+                                        {% if event.type == "Portal" %}
+                                            <th style="width:45%"> Developer(s) </th>
+                                        {% else %}
+                                            <th style="width:45%"> Author(s) </th>
+                                        {% endif %}
+                                        <th class="event-table-2" style="width:10%">Type</th>
+                                    <tr>
+                                </thead>
+                                {% for material in event.materials %}
+                                    <tbody>
+                                        <tr>
+                                            {%  if material.ext == false %}
+                                                <td class="event-table-1"> 
+                                                    <a href="{{ site.github.url }}/public/docs/{{ material.link }}" target="_blank">{{ material.title }}</a>
+                                                </td>
+                                            {%  elsif material.ext == true %}
+                                                <td class="event-table-1"> <a href="{{ material.link }}" target="_blank">{{ material.title }}</a></td>
+                                            {% else %}
+                                                <td class="event-table-1"> {{ material.title }}</td>
+                                            {%  endif %}
+                                            <td>{{ material.speaker }}</td>
+                                            <td class="event-table-2">{{ material.type }}</td>
+                                        </tr>
+                                    </tbody>      
+                                {% endfor %}                          
+                            </table>
+                            {% endif %}
+                        </div>    
+                    </div>                
+                {% endfor %}
+            </div>
+        </div><!--//container-->
+    </section><!--//participants->
+
+
+
+

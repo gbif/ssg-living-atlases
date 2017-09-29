@@ -1,0 +1,15 @@
+id: "20"
+title: "Regional Engagement Workshop, BID Pacific"
+type: Meeting
+description: <p class="text-justify">During the Pacific regional meeting around BID projects, Anne-Sophie Archambeau, the GBIF France Node Manager, presented the Living Atlases community. The discussion opened by this presentation helped the BID project leads to work on the possibility of using Atlas of Living Australia modules for creating a regional platform using National Biodiversity Network Atlas from UK, as an example. </p>
+date: July 27th, 2017 - July 28th, 2017
+place: Apia, Samoa - SPREP Headquarters
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "<b>Anne-Sophie Archambeau (GBIF France)</b>, <br /> David Martin (Atlas of Living Australia), <br /> Marie-Elise Lecoq (GBIF France)."
+  title: "Living Atlases community"
+  link: "13-ALA-community.pdf"
+  type: "Talk"
+  ext: false

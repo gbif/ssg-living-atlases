@@ -1,0 +1,21 @@
+id: "16"
+title: "Launch of the NBN Atlas Wales and NBN Altas (03/2017)"
+type: Portal
+description: <p class="text-justify">The NBN Atlas Wales and the NBN Atlas has been launched in march 2017. Adding to the NBN Atlas Scotland, they are the three first steps of the UK biodiversity network. </p>
+date: March, 2017 
+place: UK
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "David Martin, CSIRO / ALA"
+  title: "NBN Atlas Wales"
+  link: "https://wales.nbnatlas.org/"
+  type: "Portal"
+  ext: true 
+- id: "2"
+  speaker: "David Martin, CSIRO / ALA"
+  title: "NBN Atlas"
+  link: "https://www.nbnatlas.org/"
+  type: "Portal"
+  ext: true 

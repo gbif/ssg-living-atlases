@@ -1,0 +1,38 @@
+    <!-- ******HEADER****** -->
+    <header id="header" class="header">
+        <div class="container">
+            <h1 class="logo pull-left">
+                <a href="{{ site.github.url }}">
+                    <span class="logo-title">{{ site.title }}</span> 
+
+                </a>
+            </h1><!--//logo-->
+            <nav id="main-nav" class="main-nav navbar-right" role="navigation">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button><!--//nav-toggle-->
+                </div><!--//navbar-header-->
+                <div class="navbar-collapse collapse" id="navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        {% for widget in site.widgets %}
+                            {% assign flag = false %}
+                            <li class="nav-item"> 
+                                {% for pageTitle in widget.pages %}
+                                    {% if pageTitle.name == page.title %}  
+                                        <a class="scrollto" href="#{{ widget.archor }}">{{ widget.title }}</a></li>
+                                        {% assign flag = true %}
+                                    {% endif %}
+                                {% endfor %}
+                                {% if flag == false %}
+                                    <a href="{{ site.github.url }}/{{ widget.url }}">{{ widget.title }}</a></li>
+                                {% endif %}
+                        {% endfor %}
+                    </ul><!--//nav-->
+                </div><!--//navabr-collapse-->
+            </nav><!--//main-nav-->
+        </div>
+    </header><!--//header-->
