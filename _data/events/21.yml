@@ -7,11 +7,5 @@ description: <p class="text-justify">Since 2013, a community has grown around th
     <p class="text-justify">The six organizers will be David Martin from Atlas of Living Australia, Christian Gendreau, Jeremy Goimard from Canadensys, Marie-Elise Lecoq from GBIF France, Santiago Martínez de la Riva from GBIF Spain and Manash Shah from GBIF Sweden. </p>
 date: October 3, 2017 - October 4, 2017
 place: Ottawa, Canada - Delta Hotels Ottawa City Centre by Marriott 
-valide: false
-presentation: 
-- id: "1"
-  speaker: "<b>Anne-Sophie Archambeau (GBIF France)</b>, <br /> David Martin (Atlas of Living Australia), <br /> Marie-Elise Lecoq (GBIF France)."
-  title: "Living Atlases community"
-  link: "13-ALA-community.pdf"
-  type: "Talk"
-  ext: false
+valide: true
+presentation: false

@@ -1,0 +1,39 @@
+    <!-- ******PRESENTATIONS****** -->  
+    <section id="presentations" class="modules presentations section">
+        <div class="container">  
+            <h2 class="title text-center">Living Atlases materials</h2>  
+
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                {% for presentation in site.data.presentations %}
+                        <div class="panel panel-default">
+                            <div class="button panel-heading " data-toggle="collapse" data-target="#{{ presentation.id }}">
+                                {{ presentation.title }}
+                            </div>
+							<div id="{{ presentation.id }}" class="panel-collapse collapse"> 
+                            	<div class="panel-body">{{ presentation.description }}</div>
+                                <table class="table panel-body">
+                                    <thead>
+                                        <tr>
+                                            <th>Title</th>
+                                            <th>Speaker</th>
+                                            <th>Type</th>
+                                        <tr>
+                                    </thead>
+                                    <tbody>
+                                        {% for material in site.data.materials %}
+                                            {% if material.pres_id == presentation.id %}
+                                                <tr>
+                                                    <td>{{ material.title }}</td>
+                                                    <td>{{ material.speaker }}</td>
+                                                    <td>{{ material.type }}</td>
+                                                </tr>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>                
+                {% endfor %}
+            </div>
+        </div><!--//container-->
+    </section><!--//participants->
