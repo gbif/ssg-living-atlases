@@ -3,13 +3,11 @@
 title:               Living Atlases
 email:               informatics@gbif.org
 tagline:             Living Atlases community
-# url:                 "https://melecoq.github.io/Living-Atlases-website/" # insert your site's URL
-# baseurl:             "https://melecoq.github.io/Living-Atlases-website/"
-# url: 
-# site.github.url: "https://melecoq.github.io/Living-Atlases-website"
+url:                 
+baseurl:             
 
-url:                 "https://living-atlases.gbif.org"
-baseurl:             "https://living-atlases.gbif.org"
+#url:                 "https://living-atlases.gbif.org"
+#baseurl:             "https://living-atlases.gbif.org"
 
 encoding: utf-8
 
@@ -37,9 +35,7 @@ version:             1.0.0
 github:
   repo:              https://github.com/kevit/devaid-jekyll-theme
 
-# Gems - Dependencies for this theme
-plugins:
-  - github-pages
+
 
 
 # Build settings
