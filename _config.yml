@@ -3,11 +3,11 @@
 title:               Living Atlases
 email:               informatics@gbif.org
 tagline:             Living Atlases community
-url:                 
-baseurl:             
+# url:                 
+# baseurl:             
 
-#url:                 "https://living-atlases.gbif.org"
-#baseurl:             "https://living-atlases.gbif.org"
+url:                 "https://living-atlases.gbif.org"
+baseurl:             "https://living-atlases.gbif.org"
 
 encoding: utf-8
 
