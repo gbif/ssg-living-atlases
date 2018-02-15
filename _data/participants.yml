@@ -6,10 +6,11 @@
   status: In production
 
 - institution: Canadensys
+  data-portal: http://data2.canadensys.net/
   gbif-page: https://www.gbif.org/project/82984/canadensys
   country: Canada
   language: English - French
-  status: In progress
+  status: In production
 
 - institution: CRBio
   data-portal: http://www.crbio.cr/crbio/?page_id=2&lang=es
