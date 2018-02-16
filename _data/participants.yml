@@ -2,14 +2,14 @@
   data-portal: https://www.ala.org.au
   gbif-page: https://www.gbif.org/project/82983
   country: Australia
-  language(s): English
+  language: English
   status: Live
 
 - institution: Canadensys
   data-portal: http://data2.canadensys.net/
   gbif-page: https://www.gbif.org/project/82984
   country: Canada
-  language(s): English & French
+  language: English & French
   status: Live
 
 - institution: CRBio
@@ -41,64 +41,64 @@
 - institution: GBIF Sweden
   data-portal: https://bioatlas.se
   country: Sweden
-  language(s): English & Swedish
+  language: English & Swedish
   status: Live
 
 - institution: GBIF Portugal
   data-portal: http://dados.gbif.pt
   gbif-page: https://www.gbif.org/project/82967
   country: Portugal
-  language(s): Portugese
+  language: Portugese
   status: Live
 
 - institution: Instituto Chico Mendes de Conservaçao de Biodiversidad
   data-portal: http://portaldabiodiversidade.icmbio.gov.br/portal/
   country: Brazil
-  language(s): Portugese
+  language: Portugese
   status: Live
 
 - institution: NBN Atlas
   data-portal: https://nbnatlas.org/
   country: United Kingdom
-  language(s): English
+  language: English
   status: Live
 
 - institution: NBN Atlas Scotland
   data-portal: https://scotland.nbnatlas.org/
   gbif-page: https://www.gbif.org/project/82973
   country: Scotland
-  language(s): English
+  language: English
   status: Live
 
 - institution: NBN Atlas Wales
   data-portal: https://wales.nbnatlas.org/
   country: Wales
-  language(s): English & Welsh
+  language: English & Welsh
   status: Live
 
 - institution: Sistema Nacional de Datos Biologicos
   data-portal: http://datos.sndb.mincyt.gob.ar/
   gbif-page: https://www.gbif.org/project/82985
   country: Argentina
-  language(s): Spanish
+  language: Spanish
   status: Live
 
 - institution: eElurikkus 
   data-portal: https://demo.elurikkus.ut.ee
   country: Estonia
-  language(s): Estonian & English
+  language: Estonian & English
   status: Early-release demo
 
 - institution: GBIF Andorra
   data-portal: 
   gbif-page: 
   country: Andorra
-  language(s): Catalan
+  language: Catalan
   status: Under development
 
 - country: Philippine
   status: In discussion
 
 - country: Germany
-  language(s): German
+  language: German
   status: In discussion
