@@ -1,103 +1,104 @@
 - institution: Atlas of Living Australia
   data-portal: https://www.ala.org.au
-  gbif-page: https://www.gbif.org/project/82983/atlas-of-living-australia
+  gbif-page: https://www.gbif.org/project/82983
   country: Australia
-  language: English
-  status: In production
+  language(s): English
+  status: Live
 
 - institution: Canadensys
   data-portal: http://data2.canadensys.net/
-  gbif-page: https://www.gbif.org/project/82984/canadensys
+  gbif-page: https://www.gbif.org/project/82984
   country: Canada
-  language: English - French
-  status: In production
+  language(s): English & French
+  status: Live
 
 - institution: CRBio
   data-portal: http://www.crbio.cr/crbio/?page_id=2&lang=es
-  gbif-page: https://www.gbif.org/project/82989/crbio-atlas-of-living-costa-rica
+  gbif-page: https://www.gbif.org/project/82989
   country: Costa Rica
-  language: Spanish - English
-  status: In production
+  language(s): Spanish & English
+  status: Live
 
 - institution: GBIF Benin
   country: Benin
-  language: French
-  status: In progress
+  language(s): French
+  status: Live
 
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
-  gbif-page: https://www.gbif.org/project/82969/atlas-of-living-france
+  gbif-page: https://www.gbif.org/project/82969
   country: France
-  language: French
-  status: In production
+  language(s): French
+  status: Live
 
 - institution: GBIF Spain
   data-portal: http://datos.gbif.es
-  gbif-page: https://www.gbif.org/project/82954/gbifes
+  gbif-page: https://www.gbif.org/project/82954
   country: Spain
   language: Spanish
-  status: In production
+  status: Live
 
 - institution: GBIF Sweden
-  data-portal: https://bioatlas.se/
+  data-portal: https://bioatlas.se
   country: Sweden
-  language: English - Swedish
-  status: In production
+  language(s): English & Swedish
+  status: Live
 
 - institution: GBIF Portugal
   data-portal: http://dados.gbif.pt
-  gbif-page: https://www.gbif.org/project/82967/gbifpt
+  gbif-page: https://www.gbif.org/project/82967
   country: Portugal
-  language: Portugese
-  status: In production
+  language(s): Portugese
+  status: Live
 
 - institution: Instituto Chico Mendes de Conservaçao de Biodiversidad
   data-portal: http://portaldabiodiversidade.icmbio.gov.br/portal/
   country: Brazil
-  language: Portugese
-  status: In production
+  language(s): Portugese
+  status: Live
 
-- institution: National Biodiversity Network Atlas
+- institution: NBN Atlas
   data-portal: https://nbnatlas.org/
   country: United Kingdom
-  language: English
-  status: In production
+  language(s): English
+  status: Live
 
-- institution: National Biodiversity Network Atlas - Scotland
+- institution: NBN Atlas Scotland
   data-portal: https://scotland.nbnatlas.org/
-  gbif-page: https://www.gbif.org/project/82973/atlas-of-living-scotland
+  gbif-page: https://www.gbif.org/project/82973
   country: Scotland
-  language: English
-  status: In production
+  language(s): English
+  status: Live
 
-- institution: National Biodiversity Network Atlas - Wales
+- institution: NBN Atlas Wales
   data-portal: https://wales.nbnatlas.org/
   country: Wales
-  language: English - Welsh
-  status: In production
+  language(s): English & Welsh
+  status: Live
 
 - institution: Sistema Nacional de Datos Biologicos
   data-portal: http://datos.sndb.mincyt.gob.ar/
-  gbif-page: https://www.gbif.org/project/82985/argentina-sistema-nacional-de-datos-biologicos
+  gbif-page: https://www.gbif.org/project/82985
   country: Argentina
-  language: Spanish
-  status: In production
+  language(s): Spanish
+  status: Live
 
-- institution: University of Tartu 
+- institution: eElurikkus 
+  data-portal: https://demo.elurikkus.ut.ee
   country: Estonia
-  language: Estonian
-  status: In progress
-
-- country: Philippine
-  status: In discussion
-
-- country: Germany
-  language: German
-  status: In discussion
+  language(s): Estonian & English
+  status: Early-release demo
 
 - institution: GBIF Andorra
   data-portal: 
   gbif-page: 
   country: Andorra
-  language: Catalan
-  status: In progress
+  language(s): Catalan
+  status: Under development
+
+- country: Philippine
+  status: In discussion
+
+- country: Germany
+  language(s): German
+  status: In discussion
