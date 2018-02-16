@@ -16,13 +16,13 @@
   data-portal: http://www.crbio.cr/crbio/?page_id=2&lang=es
   gbif-page: https://www.gbif.org/project/82989
   country: Costa Rica
-  language(s): Spanish & English
+  language: Spanish & English
   status: Live
 
 - institution: GBIF Benin
   country: Benin
-  language(s): French
-  status: Live
+  language: French
+  status: Under development
 
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
