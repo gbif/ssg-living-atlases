@@ -19,11 +19,6 @@
   language: Spanish & English
   status: Live
 
-- institution: GBIF Benin
-  country: Benin
-  language: French
-  status: Under development
-
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
   gbif-page: https://www.gbif.org/project/82969
@@ -94,6 +89,11 @@
   gbif-page: 
   country: Andorra
   language: Catalan
+  status: Under development
+
+- institution: GBIF Benin
+  country: Benin
+  language: French
   status: Under development
 
 - country: Philippine
