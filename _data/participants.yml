@@ -19,6 +19,13 @@
   language: Spanish & English
   status: Live
 
+- institution: GBIF Andorra
+  data-portal: https://www.gbif.ad
+  gbif-page: 
+  country: Andorra
+  language: Catalan
+  status: Live
+
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
   gbif-page: https://www.gbif.org/project/82969
@@ -83,13 +90,6 @@
   country: Estonia
   language: Estonian & English
   status: Early-release demo
-
-- institution: GBIF Andorra
-  data-portal: 
-  gbif-page: 
-  country: Andorra
-  language: Catalan
-  status: Under development
 
 - institution: GBIF Benin
   country: Benin
