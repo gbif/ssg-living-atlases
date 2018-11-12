@@ -22,6 +22,12 @@
   language: Catalan
   status: Live
 
+- institution: GBIF Benin
+  data-portal: https://portail.gbifbenin.org
+  country: Benin
+  language: French
+  status: Live
+
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
   country: France
@@ -75,7 +81,7 @@
   country: Isle of Man
   language: English
   status: Live
-  
+
 - institution: Sistema Nacional de Datos Biologicos
   data-portal: http://datos.sndb.mincyt.gob.ar/
   country: Argentina
@@ -88,9 +94,19 @@
   language: Estonian & English
   status: Live
 
-- institution: GBIF Benin
-  country: Benin
-  language: French
+- institution: Biodiversity Atlas Austria
+  country: Austria
+  language: German
+  status: Under development
+
+- institution: Field Museum
+  country: USA
+  language: English
+  status: Under development
+
+- institution: Vermont Center for Ecostudies
+  country: USA
+  language: English
   status: Under development
 
 - country: Philippine

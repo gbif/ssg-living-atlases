@@ -1,8 +1,281 @@
 id: "22"
 title: "Living Atlases workshop (CESP)"
 type: Workshop
+description: <p class="text-justify">This 5-day workshop wa funded for partners of this project through the GBIF CESP Program. The main objectives was to install or improve collectory and biocache modules, to install or improve the spatial portal and BIE modules.</p> 
+date: February 19, 2018 - February 23, 2018
+place: Madrid, Spain - Real Jardin Botanico
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Jeremy Goimard (Canadensys)"
+  title: "Introductions from Canadensys"
+  link: "https://docs.google.com/presentation/d/1ktVAMCgTIXHcMl5sh9s8HW6xSyzojhvE0uWLvO9w5aM/edit?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "2"
+  speaker: "Santiago Martinez de la Riva Vivanco (GBIF Spain)"
+  title: "Introductions from GBIF Spain"
+  link: "https://drive.google.com/file/d/0B0hTmSE6rnumQkk3RlByWUQtRVNLMXNWaHZydlRYLWN2R0Nr/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "3"
+  speaker: "Abner Galvez (GBIF Chile)"
+  title: "Introductions from GBIF Chile"
+  link: "https://drive.google.com/file/d/1xr6jFWFUYdkKltyh26FaNiq0zqz6F-Ry/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "4"
+  speaker: "Manash Shah (GBIF Sweden)"
+  title: "Introductions from GBIF Sweden"
+  link: "https://drive.google.com/file/d/13n3pG-tDLD4Z36XkhtXRVqurxd47kXqR/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "5"
+  speaker: "Rui Fuigera (GBIF Portugal)"
+  title: "Introductions from GBIF Portugal"
+  link: "https://drive.google.com/file/d/1GmosLUEPd_9SdATSm8yOvDdbPkV0mfi2/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "6"
+  speaker: "Jaime Nahuel Ramírez Lorca (GBIF Argentina)"
+  title: "Introductions from GBIF Argentina"
+  link: "https://docs.google.com/presentation/d/1wNJx04F23vPkzP8zTLrCL79-7B7W-PAJNV2NZ-TZhaE/edit?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "7"
+  speaker: "Dave Martin (ALA)"
+  title: "Introductions from NBN"
+  link: "https://drive.google.com/file/d/1KG7hdjut6WQFHamqiuZwKhGGAp5DaT4j/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "8"
+  speaker: "Riza Batista-Navarro (University of Manchester / Philippines)"
+  title: "Introductions from Philippines"
+  link: "https://drive.google.com/file/d/1sGbp8br-N2p0hXlhd4ZTVLD8-ihqIQ2a/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "9"
+  speaker: "Kourouma Koura (GBIF Benin)"
+  title: "Introductions from GBIF Benin"
+  link: "https://drive.google.com/file/d/1ZlFrLn5Xfzd-u50yMvxp0AssxLpd_Zqk/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "10"
+  speaker: "Maxim Shashkov (GBIF Russia)"
+  title: "Introductions from GBIF Russia"
+  link: "https://drive.google.com/file/d/1ebGCUfBsHkTuxgY5E0vrey-iUkIqVnEc/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "11"
+  speaker: "Manuel Vargas (CRBio)"
+  title: "Introductions from CRBio"
+  link: "https://drive.google.com/file/d/0B0hTmSE6rnumQjBVOThjQWJJeXNGeVo5VVRNTHBueFV1RnpB/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "12"
+  speaker: "Nick dos Remedios (ALA) & Dave Martin (ALA)"
+  title: "International Living Atlases Workshop"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.3-ALA-Intro-2018.pptx"
+  type: "Talk"
+  ext: true
+- id: "13"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Living Atlases community"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.4-Communauty-LA.pptx"
+  type: "Talk"
+  ext: true
+- id: "14"
+  speaker: "Dave Martin (ALA)"
+  title: "Architecture overview: Running a Living Atlas for your node of biodiversity."
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.5-ALA-Architecture.pptx"
+  type: "Talk"
+  ext: true
+- id: "15"
+  speaker: "Dave Martin (ALA)"
+  title: "Ansible overview"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.6-Ansible-overview.pptx"
+  type: "Talk"
+  ext: true
+- id: "16"
+  speaker: "Dave Martin (ALA)"
+  title: "The Demo Architecture"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.7-The-Demo-Architecture.pptx"
+  type: "Talk"
+  ext: true
+- id: "17"
+  speaker: "Dave Martin (ALA)"
+  title: "Data hubs - supporting co-development between GBIF nodes"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/2.1-Data-hubs.pptx"
+  type: "Talk"
+  ext: true
+- id: "18"
+  speaker: "Dave Martin (ALA)"
+  title: "Publishing to GBIF through the Registry (collectory)"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/2.3-Publishing-to-GBIF-through-the-Registry.pptx"
+  type: "Talk"
+  ext: true
+- id: "19"
+  speaker: "Allan Zirk (GBIF Estonia)"
+  title: "Developing Estonian Biodiversity portal"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/eElurikkus.pdf"
+  type: "Talk"
+  ext: true
+- id: "20"
+  speaker: "Fabien Caviere (GBIF France)"
+  title: "Documentation for the Living Atlases Community"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/3.1-Documentation.pptx"
+  type: "Talk"
+  ext: true
+- id: "21"
+  speaker: "Nick dos Remedios (ALA)"
+  title: "Grails introduction"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/3.2-Introduction-to-Grails.pptx"
+  type: "Talk"
+  ext: true
+- id: "22"
+  speaker: "Manash Shah (GBIF Sweden)"
+  title: "Setting up ALA4R"
+  link: "https://drive.google.com/file/d/1QcssllomOtBxeKRaNhdE0q4xwV43VnJ5/view?usp=sharing"
+  type: "instructions"
+  ext: trueid: "22"
+title: "Living Atlases workshop (CESP)"
+type: Workshop
 description: <p class="text-justify">This 5-day workshop will be funded for partners of this project through the GBIF CESP Program. The main objectives will be install or improve collectory and biocache modules, to install or improve the spatial portal and BIE modules.</p> <p class="text-justify">If you like to participate but are not a partner, you can contact GBIF Spain or <a href="http://www.gbif.fr/contact" target="_blank">GBIF France</a></p>
 date: February 19, 2018 - February 23, 2018
 place: Madrid, Spain - Real Jardin Botanico
 valide: true
 presentation: false
+materials:
+- id: "1"
+  speaker: "Jeremy Goimard (Canadensys)"
+  title: "Introductions from Canadensys"
+  link: "https://docs.google.com/presentation/d/1ktVAMCgTIXHcMl5sh9s8HW6xSyzojhvE0uWLvO9w5aM/edit?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "2"
+  speaker: "Santiago Martinez de la Riva Vivanco (GBIF Spain)"
+  title: "Introductions from GBIF Spain"
+  link: "https://drive.google.com/file/d/0B0hTmSE6rnumQkk3RlByWUQtRVNLMXNWaHZydlRYLWN2R0Nr/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "3"
+  speaker: "Abner Galvez (GBIF Chile)"
+  title: "Introductions from GBIF Chile"
+  link: "https://drive.google.com/file/d/1xr6jFWFUYdkKltyh26FaNiq0zqz6F-Ry/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "4"
+  speaker: "Manash Shah (GBIF Sweden)"
+  title: "Introductions from GBIF Sweden"
+  link: "https://drive.google.com/file/d/13n3pG-tDLD4Z36XkhtXRVqurxd47kXqR/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "5"
+  speaker: "Rui Fuigera (GBIF Portugal)"
+  title: "Introductions from GBIF Portugal"
+  link: "https://drive.google.com/file/d/1GmosLUEPd_9SdATSm8yOvDdbPkV0mfi2/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "6"
+  speaker: "Jaime Nahuel Ramírez Lorca (GBIF Argentina)"
+  title: "Introductions from GBIF Argentina"
+  link: "https://docs.google.com/presentation/d/1wNJx04F23vPkzP8zTLrCL79-7B7W-PAJNV2NZ-TZhaE/edit?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "7"
+  speaker: "Dave Martin (ALA)"
+  title: "Introductions from NBN"
+  link: "https://drive.google.com/file/d/1KG7hdjut6WQFHamqiuZwKhGGAp5DaT4j/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "8"
+  speaker: "Riza Batista-Navarro (University of Manchester / Philippines)"
+  title: "Introductions from Philippines"
+  link: "https://drive.google.com/file/d/1sGbp8br-N2p0hXlhd4ZTVLD8-ihqIQ2a/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "9"
+  speaker: "Kourouma Koura (GBIF Benin)"
+  title: "Introductions from GBIF Benin"
+  link: "https://drive.google.com/file/d/1ZlFrLn5Xfzd-u50yMvxp0AssxLpd_Zqk/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "10"
+  speaker: "Maxim Shashkov (GBIF Russia)"
+  title: "Introductions from GBIF Russia"
+  link: "https://drive.google.com/file/d/1ebGCUfBsHkTuxgY5E0vrey-iUkIqVnEc/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "11"
+  speaker: "Manuel Vargas (CRBio)"
+  title: "Introductions from CRBio"
+  link: "https://drive.google.com/file/d/0B0hTmSE6rnumQjBVOThjQWJJeXNGeVo5VVRNTHBueFV1RnpB/view?usp=sharing"
+  type: "Talk"
+  ext: true
+- id: "12"
+  speaker: "Nick dos Remedios (ALA) & Dave Martin (ALA)"
+  title: "International Living Atlases Workshop"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.3-ALA-Intro-2018.pptx"
+  type: "Talk"
+  ext: true
+- id: "13"
+  speaker: "Marie-Elise Lecoq (GBIF France)"
+  title: "Living Atlases community"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.4-Communauty-LA.pptx"
+  type: "Talk"
+  ext: true
+- id: "14"
+  speaker: "Dave Martin (ALA)"
+  title: "Architecture overview: Running a Living Atlas for your node of biodiversity."
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.5-ALA-Architecture.pptx"
+  type: "Talk"
+  ext: true
+- id: "15"
+  speaker: "Dave Martin (ALA)"
+  title: "Ansible overview"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.6-Ansible-overview.pptx"
+  type: "Talk"
+  ext: true
+- id: "16"
+  speaker: "Dave Martin (ALA)"
+  title: "The Demo Architecture"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/1.7-The-Demo-Architecture.pptx"
+  type: "Talk"
+  ext: true
+- id: "17"
+  speaker: "Dave Martin (ALA)"
+  title: "Data hubs - supporting co-development between GBIF nodes"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/2.1-Data-hubs.pptx"
+  type: "Talk"
+  ext: true
+- id: "18"
+  speaker: "Dave Martin (ALA)"
+  title: "Publishing to GBIF through the Registry (collectory)"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/2.3-Publishing-to-GBIF-through-the-Registry.pptx"
+  type: "Talk"
+  ext: true
+- id: "19"
+  speaker: "Allan Zirk (GBIF Estonia)"
+  title: "Developing Estonian Biodiversity portal"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/eElurikkus.pdf"
+  type: "Talk"
+  ext: true
+- id: "20"
+  speaker: "Fabien Caviere (GBIF France)"
+  title: "Documentation for the Living Atlases Community"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/3.1-Documentation.pptx"
+  type: "Talk"
+  ext: true
+- id: "21"
+  speaker: "Nick dos Remedios (ALA)"
+  title: "Grails introduction"
+  link: "https://www.gbif.es/wp-content/uploads/2018/02/3.2-Introduction-to-Grails.pptx"
+  type: "Talk"
+  ext: true
+- id: "22"
+  speaker: "Manash Shah (GBIF Sweden)"
+  title: "Setting up ALA4R"
+  link: "https://drive.google.com/file/d/1QcssllomOtBxeKRaNhdE0q4xwV43VnJ5/view?usp=sharing"
+  type: "instructions"
+  ext: true
