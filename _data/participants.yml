@@ -1,91 +1,97 @@
 - institution: Atlas of Living Australia
   data-portal: https://www.ala.org.au
-  gbif-page: https://www.gbif.org/project/82983/atlas-of-living-australia
   country: Australia
   language: English
-  status: In production
+  status: Live
 
 - institution: Canadensys
-  gbif-page: https://www.gbif.org/project/82984/canadensys
+  data-portal: http://data2.canadensys.net/
   country: Canada
-  language: English - French
-  status: In progress
+  language: English & French
+  status: Live
 
 - institution: CRBio
   data-portal: http://www.crbio.cr/crbio/?page_id=2&lang=es
-  gbif-page: https://www.gbif.org/project/82989/crbio-atlas-of-living-costa-rica
   country: Costa Rica
-  language: Spanish - English
-  status: In production
+  language: Spanish & English
+  status: Live
 
-- institution: GBIF Benin
-  country: Benin
-  language: French
-  status: In progress
+- institution: GBIF Andorra
+  data-portal: https://www.gbif.ad
+  country: Andorra
+  language: Catalan
+  status: Live
 
 - institution: GBIF France
   data-portal: http://portail.gbif.fr
-  gbif-page: https://www.gbif.org/project/82969/atlas-of-living-france
   country: France
-  language: French
-  status: In production
+  language(s): French
+  status: Live
 
 - institution: GBIF Spain
   data-portal: http://datos.gbif.es
-  gbif-page: https://www.gbif.org/project/82954/gbifes
   country: Spain
   language: Spanish
-  status: In production
+  status: Live
 
 - institution: GBIF Sweden
-  data-portal: https://bioatlas.se/
+  data-portal: https://bioatlas.se
   country: Sweden
-  language: English - Swedish
-  status: In production
+  language: English & Swedish
+  status: Live
 
 - institution: GBIF Portugal
   data-portal: http://dados.gbif.pt
-  gbif-page: https://www.gbif.org/project/82967/gbifpt
   country: Portugal
   language: Portugese
-  status: In production
+  status: Live
 
 - institution: Instituto Chico Mendes de Conservaçao de Biodiversidad
   data-portal: http://portaldabiodiversidade.icmbio.gov.br/portal/
   country: Brazil
   language: Portugese
-  status: In production
+  status: Live
 
-- institution: National Biodiversity Network Atlas
+- institution: NBN Atlas
   data-portal: https://nbnatlas.org/
   country: United Kingdom
   language: English
-  status: In production
+  status: Live
 
-- institution: National Biodiversity Network Atlas - Scotland
+- institution: NBN Atlas Scotland
   data-portal: https://scotland.nbnatlas.org/
-  gbif-page: https://www.gbif.org/project/82973/atlas-of-living-scotland
   country: Scotland
   language: English
-  status: In production
+  status: Live
 
-- institution: National Biodiversity Network Atlas - Wales
+- institution: NBN Atlas Wales
   data-portal: https://wales.nbnatlas.org/
   country: Wales
-  language: English - Welsh
-  status: In production
+  language: English & Welsh
+  status: Live
 
+- institution: NBN Atlas Isle of Man
+  data-portal: https://isleofman.nbnatlas.org
+  country: Isle of Man
+  language: English
+  status: Live
+  
 - institution: Sistema Nacional de Datos Biologicos
   data-portal: http://datos.sndb.mincyt.gob.ar/
-  gbif-page: https://www.gbif.org/project/82985/argentina-sistema-nacional-de-datos-biologicos
   country: Argentina
   language: Spanish
-  status: In production
+  status: Live
 
-- institution: University of Tartu 
+- institution: eElurikkus 
+  data-portal: http://elurikkus.ut.ee
   country: Estonia
-  language: Estonian
-  status: In progress
+  language: Estonian & English
+  status: Live
+
+- institution: GBIF Benin
+  country: Benin
+  language: French
+  status: Under development
 
 - country: Philippine
   status: In discussion
@@ -93,10 +99,3 @@
 - country: Germany
   language: German
   status: In discussion
-
-- institution: GBIF Andorra
-  data-portal: 
-  gbif-page: 
-  country: Andorra
-  language: Catalan
-  status: In progress

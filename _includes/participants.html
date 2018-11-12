@@ -12,7 +12,6 @@
                                 <tr>
                                     
                                     <th class="text-center">Institution</th>
-                                    <th class="text-center">GBIF page</th>
                                     <th >Country</th>
                                     <th >Language</th>
                                     <th >Status</th>
@@ -27,13 +26,6 @@
                                             {% endif %}
                                                     {{ participant.institution }}
                                             {% if participant.data-portal %}
-                                                </a>
-                                            {% endif %}    
-                                        </td>
-                                        <td class="text-center">
-                                            {% if participant.gbif-page %}
-                                                <a href="{{ participant.gbif-page }}" target="_blank">
-                                                    <img class="gbif" src="{{  }}public/css/images/GBIF-2015-mark.png">
                                                 </a>
                                             {% endif %}    
                                         </td>
