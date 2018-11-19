@@ -23,7 +23,7 @@
   status: Live
 
 - institution: GBIF Benin
-  data-portal: https://portail.gbifbenin.org
+  data-portal: http://portail.gbifbenin.org
   country: Benin
   language: French
   status: Live
