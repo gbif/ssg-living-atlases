@@ -280,11 +280,10 @@ pre code {
 /* ======= Docs Section ======= */
 .docs {
     padding: 80px 0;
-    background: #fff;
-    color: #D5502A;
+    background: #f5f5f5;
 }
 .docs .title {
-    color: #384047;
+    color: #D5502A;
     margin-top: 0;
     margin-bottom: 60px;
 }
@@ -304,36 +303,39 @@ pre code {
 }
 .docs .item .icon-holder .fa {
     font-size: 24px;
-    color: #384047;
+    color: #D5502A;
 }
 .docs .item .content {
     padding-left: 60px;
 }
 .docs .item .content .sub-title {
     margin-top: 0;
-    color: #384047;
+    color: #D5502A;
     font-size: 18px;
 }
 .docs a {
-    color: #384047;
-}
-.docs a:hover {
-    color: #384047;
-}
-/* ======= Participants Section ======= */
-.participants {
-    padding: 80px 0;
-    background: #f5f5f5;
     color: #D5502A;
 }
-.participants .title {
-    color: #D5502A;;
-    margin-top: 0;
-    margin-bottom: 30px;
+.docs a:hover {
+    color: #D5502A;
 }
-.participants .participants-inner {
-    max-width: 900px;
+
+/* ======= News Section ======= */
+
+#news {
+    padding: 80px 0;
     background: #fff;
+}
+
+#news .title {
+    color: #384047;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+#news .news-inner {
+    max-width: 900px;
+    background: #f5f5f5;
     padding: 30px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -345,6 +347,58 @@ pre code {
     background-clip: padding-box;
     margin: 0 auto;
 }
+
+#news .news-inner .sub-title{
+    color:#D5502A ;
+    text-align: center;
+}
+
+#news .summary{
+    text-align: center;
+}
+#news .block {
+    margin-bottom: 60px;
+}
+
+#news h3{
+    color: #384047;
+}
+
+iframe{
+    margin: auto;
+}
+
+/* ======= Participants Section ======= */
+.participants {
+    padding: 80px 0;
+    background: #fff;
+    color: #D5502A;
+}
+
+.participants .title{
+    color: #384047;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.participants .participants-inner {
+    max-width: 900px;
+    background: #f5f5f5;
+    padding: 30px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    margin: 0 auto;
+}
+
+.participants .participants-inner .sub-title{
+    color:#D5502A ;
+}
+
 .participants .block {
     margin-bottom: 60px;
 }
@@ -370,7 +424,7 @@ pre code {
     color: #384047;
 }
 
-.participants  a {
+.participants  a{
     color: #384047;
 }
 .participants  a:hover {
@@ -437,15 +491,15 @@ pre code {
 /* ======= Contact Section ======= */
 .contact {
     padding: 80px 0;
-    background: #fff;
-    color: #fff;
+    background: #f5f5f5;
+    color: #D5502A;
 }
 .contact .contact-inner {
     max-width: 760px;
     margin: 0 auto;
 }
 .contact .title {
-    color: #384047;
+    color: #D5502A;
     margin-top: 0;
     margin-bottom: 30px;
 }
@@ -453,10 +507,10 @@ pre code {
     margin-bottom: 60px;
 }
 .contact a {
-    color: #384047;
+    color: #D5502A;
 }
 .contact a:hover {
-    color: #384047;
+    color: #D5502A;
 }
 .contact .author-message {
     position: relative;
@@ -481,8 +535,8 @@ pre code {
 }
 .contact .author-message .speech-bubble {
     margin-left: 155px;
-    background: #D5502A;
-    color: #fff;
+    background: #fff;
+    color: #444444;
     padding: 30px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -495,13 +549,13 @@ pre code {
     position: relative;
 }
 .contact .author-message .speech-bubble .sub-title {
-    color: #384047;
+    color: #D5502A;
     font-size: 16px;
     margin-top: 0;
     margin-bottom: 30px;
 }
 .contact .author-message .speech-bubble a {
-    color: #384047;
+    color: #D5502A;
 }
 .contact .author-message .speech-bubble:after {
     position: absolute;
@@ -615,3 +669,12 @@ pre code {
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
+
+
+.intro-div iframe {
+    display: block;
+    width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
