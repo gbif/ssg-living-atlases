@@ -64,6 +64,12 @@
   language: English
   status: Live
 
+- institution: NBN Atlas Northern Ireland
+  data-portal: https://northernireland.nbnatlas.org/
+  country: Northern Ireland
+  language: English
+  status: Live
+  
 - institution: NBN Atlas Scotland
   data-portal: https://scotland.nbnatlas.org/
   country: Scotland
