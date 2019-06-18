@@ -241,7 +241,6 @@ pre code {
 /* ======= Modules Section ======= */
 .modules {
     padding: 80px 0;
-    background: #f5f5f5;
 }
 .modules .title {
     color: #D5502A;
@@ -280,7 +279,6 @@ pre code {
 /* ======= Docs Section ======= */
 .docs {
     padding: 80px 0;
-    background: #f5f5f5;
 }
 .docs .title {
     color: #D5502A;
@@ -322,20 +320,50 @@ pre code {
 
 /* ======= News Section ======= */
 
-#news {
-    padding: 80px 0;
+section:nth-child(2n) {
     background: #fff;
 }
 
-#news .title {
+section:nth-child(2n) .title {
     color: #384047;
+}
+
+section:nth-child(2n+1) {
+    background: #f5f5f5;
+}
+
+section:nth-child(2n+1) .title {
+    color: #D5502A;
+}
+
+/*section:nth-child(2n+1) .container>div {
+    background: #fff;
+}
+
+section:nth-child(2n) .container>div {
+    background: #f5f5f5;
+}*/
+
+section:nth-child(2n+1) .container>div h3 {
+    color: #384047;
+}
+
+section:nth-child(2n) .container>div h3 {
+    color: #D5502A;
+}
+
+#news {
+    padding: 80px 0;
+}
+
+#news .title {
     margin-top: 0;
     margin-bottom: 60px;
 }
 
 #news .news-inner {
     max-width: 900px;
-    background: #f5f5f5;
+    background: #fff;
     padding: 30px;
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
@@ -349,7 +377,6 @@ pre code {
 }
 
 #news .news-inner .sub-title{
-    color:#D5502A ;
     text-align: center;
 }
 
@@ -360,10 +387,6 @@ pre code {
     margin-bottom: 60px;
 }
 
-#news h3{
-    color: #384047;
-}
-
 iframe{
     margin: auto;
 }
@@ -371,12 +394,10 @@ iframe{
 /* ======= Participants Section ======= */
 .participants {
     padding: 80px 0;
-    background: #fff;
     color: #D5502A;
 }
 
 .participants .title{
-    color: #384047;
     margin-top: 0;
     margin-bottom: 30px;
 }
@@ -499,7 +520,6 @@ iframe{
     margin: 0 auto;
 }
 .contact .title {
-    color: #D5502A;
     margin-top: 0;
     margin-bottom: 30px;
 }
@@ -567,7 +587,7 @@ iframe{
     height: 0;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    border-right: 10px solid #D5502A;
+    border-right: 10px solid #fff;
 }
 .contact .author-message .speech-bubble .source {
     margin-top: 30px;
@@ -634,7 +654,7 @@ iframe{
         margin-bottom: 30px;
     }
     .promo .title {
-        font-size: 66px;
+        fon-size: 66px;
     }
     .promo .meta {
         margin-top: 60px;
