@@ -110,6 +110,11 @@
   language: English
   status: Under development
   
+- institution: GBIF Togo
+  country: Togo
+  language: French
+  status: Under development
+  
 - institution: Sistema de Informação Sobre a Biodiversidade Brasileira (SiBBr)
   country: Brazil
   language: Portuguese & English
@@ -120,6 +125,10 @@
   language: English
   status: Under development
 
+- institution: GBIF Norway
+  country: Norway
+  status: In discussion
+  
 - country: Philippine
   status: In discussion
 
