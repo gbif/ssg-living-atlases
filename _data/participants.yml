@@ -9,6 +9,12 @@
   country: Canada
   language: English & French
   status: Live
+  
+- institution: Consejo Nacional de Áreas Protegidas (CONAP)
+  data-portal: http://snidbgtbio.conap.gob.gt/
+  country: Guatemala
+  language: Spanish
+  status: Live
 
 - institution: CRBio
   data-portal: http://www.crbio.cr/crbio/?page_id=2&lang=es
