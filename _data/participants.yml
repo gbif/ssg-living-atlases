@@ -63,6 +63,29 @@
   country: Brazil
   language: Portugese
   status: Live
+  
+- institution: Living Atlas of Barbados
+  data-portal: http://lac.uvs.edu/index.php/bb/
+  country: Barbados
+  language: English
+  status: Live
+  
+- institution: Living Atlas of the Caribbean
+  data-portal: http://lac.uvs.edu
+  language: English
+  status: Live
+  
+- institution: Living Atlas of Suriname
+  data-portal: http://lac.uvs.edu/index.php/sr/
+  country: Suriname
+  language: English
+  status: Live
+  
+- institution: Living Atlas of Trinidad & Tobago
+  data-portal: http://lac.uvs.edu/index.php/tt/
+  country: Trinidad & Tobago
+  language: English
+  status: Live
 
 - institution: NBN Atlas
   data-portal: https://nbnatlas.org/
