@@ -154,13 +154,19 @@
   language: English
   status: Under development
 
+- institution: GBIF Chile
+  country: Chile
+  status: In discussion
+  
 - institution: GBIF Norway
   country: Norway
+  status: In discussion
+  
+- country: Germany
+  language: German
   status: In discussion
   
 - country: Philippine
   status: In discussion
 
-- country: Germany
-  language: German
-  status: In discussion
+
