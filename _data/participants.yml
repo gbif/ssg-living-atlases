@@ -134,6 +134,10 @@
   country: Argentina
   language: Spanish
   status: Live
+  
+- institution: Atlas of Living Tanzania
+  country: Tanzania
+  status: Under development
 
 - institution: Biodiversity Atlas Austria
   country: Austria
