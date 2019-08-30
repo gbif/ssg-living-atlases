@@ -1,0 +1,15 @@
+id: "27"
+title: "How to prepare your data for publication, and what to do with open data [Montreal Workshop]"
+type: Workshop
+description: <p class="text-justify">Funded through the GBIF CESP program, this workshop aimed to train data holders and data users on data cleaning, enrichment, publication and re-use. The data use section of the workshop focused on discovering the functionalities of an ALA based portal (Canadensys) and the GBIF portal. For the ALA portal, we focused on the search and download options and presented the modules available in the ALA framework.</p>
+date: April 16, 2019 - April 18, 2018
+place: Montreal, QC, Canada - Biodiversity Center (IRBV)
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Carole Sinou (Canadensys)"
+  title: "How to publish and use biodiversity data - Day 2"
+  link: "https://drive.google.com/file/d/1dVno1K89AlPN6sXTnyYjVH80DGIelaM2/view?usp=sharing"
+  type: "Talk"
+  ext: true 
