@@ -1,8 +1,21 @@
 id: "25"
-title: "Living Atlases workshop (CESP) 2019"
+title: "How to prepare your data for publication, and what to do with open data [Vancouver Workshop]"
 type: Workshop
-description: <p class="text-justify">This 5-day workshop will be funded for GBIF partners of this project through the GBIF CESP Program. The main objectives will be install or improve collectory and biocache modules, to install or improve the spatial portal and BIE modules.</p> <p class="text-justify">If you like to participate but are not a partner, you can contact GBIF Spain or <a href="http://www.gbif.fr/contact" target="_blank">GBIF France</a></p>
-date: April 1, 2019 - April 5, 2019
-place: Paris, France - Museum national d'Histoire naturelle
-valide: true
-presentation: false
+description: <p class="text-justify">Funded through the GBIF CESP program, this workshop aimed to train data holders and data users on data cleaning, enrichment, publication and re-use. The data use section of the workshop focused on discovering the functionalities of an ALA based portal (Canadensys) and the GBIF portal. For the ALA portal, we focused on the search and download options and presented the modules available in the ALA framework.</p>
+date: November 7, 2019 - November 9, 2019
+place: Vancouver, BC, Canada - University of British Columbia
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Carole Sinou (Canadensys)"
+  title: "How to publish and use biodiversity data - Day 2"
+  link: "https://drive.google.com/file/d/1dVno1K89AlPN6sXTnyYjVH80DGIelaM2/view?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "2"
+  speaker: "Deborah Paul (iDigBio)"
+  title: "Using Digital Scientific Collections: Roles and challenges, Trends and Examples"
+  link: "https://drive.google.com/file/d/1dVno1K89AlPN6sXTnyYjVH80DGIelaM2/view?usp=sharing"
+  type: "Talk"
+  ext: true 
