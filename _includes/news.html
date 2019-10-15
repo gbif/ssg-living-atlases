@@ -1,51 +1,46 @@
     <!-- ******MODULES****** --> 
-    <section id="news" class="modules section">
+    <section id="news" class="modules news section">
         <div class="container">
             <h2 class="title text-center">News</h2>
             <div class="news-inner"> 
                 <div class="intro-div">
-                    <h3 class="sub-title">Strengthening the Living Atlases Community of Practice</h3>
-                    <p class="intro text-justify summary"><em>The GBIF Secretariat has funded two half-time positions in the network to assist in developing a growing community of practice around ‘Living Atlases'.</em></p>
+                    <h3 class="sub-title">Remote support sessions to help Living Atlas developers bootstrapping and launching their new national or thematic data portal.</h3>
 
-                    <p class="intro text-justify"> Vicente Ruiz Jurado of the Atlas of Living Spain will act as technical coordinator, with responsibility for supporting developers, improving technical documentation and building a shared roadmap. Marie Elise Lecoq of VertNet will serve as an administrative coordinator for the community, overseeing communication, exploring and documenting governance models and creating required training modules.</p>
+                    <p class="intro text-justify"> One of the feedback that we get from the LA community is to improve and simplify the implementation of a new LA data portal. To achieve this, Vicente Ruiz Jurado, technical coordinator of the LA community, put in place a procedure based on remote sessions to bootstrap and/or launch a new LA instance within an institution. </p>
 
-                    <p class="intro text-justify"> Kicking off activities for the new team, the community is launching two video tutorials (also included below) with the aim of enabling end-users around the world to take full advantage of the Atlases. The videos are one key output from a <a href="https://www.gbif.org/project/6AxerPwlnacq6S28iK0Gki">project to improve documentation for the Living Atlases</a> funded through the 2018 Capacity Enhancement Support Programme (CESP).</p>
+                    <p class="intro text-justify"> It will help newcomers to have an overview of the LA modules, but it will also support developers who want to install new modules on their platform or launch their data portal in production.</p>
 
-                    <p class="intro text-justify"> The first video demonstrates the structure of a Living Atlas including how to search, refine and download biodiversity data, while the second video digs into the spatial components of the Atlas including the regions module that allows the user to find species recorded in a defined region. Both videos are available in English with subtitles in French, Spanish and Portuguese.</p>
+                    <p class="intro text-justify"> The sessions will be prepared and guided remotely by Vicente in coordination with the institution developers. The remote session will be divided typically in two half-days or more depending on the node requirements.</p>
 
-                    <p class="intro text-justify"> Living Atlases are based on a software platform originally developed by the Atlas of Living Australia (ALA), an informatics infrastructure that enables the aggregation of biodiversity data from multiple sources and supports integrated access and use of biological and environmental information. Since 2013, with help from ALA and GBIF, community members have organized technical training sessions and presented at numerous international meetings like GEO BON and TDWG. As a result of these and other efforts, an increasing number of GBIF nodes and other organizations have implemented the platform; 16 Atlases are now in production around the world, with work in progress on another 13 installations. The community website offers a current and complete list along with highlights activity across the community.</p>
 
-                    <p class="intro text-justify"> At the 2018 GBIF Governing Board meeting in Kilkenny, Ireland, Living Atlas representatives prepared and adopted a collective commitment toward developing a Living Atlas Community of Practice (CoP) with the following goals: </p>
+                    <p class="intro text-justify"> We propose two options: </p>
                     <p class="intro text-justify"> 
                         <ul>
-                            <li>to increase the level of shared development and resources</li>
-                            <li>to develop a shared roadmap and vision for the Living Atlas platform</li>
-                            <li>to develop and maintain training, documentation and support services</li>
-                            <li>to establish mechanisms for assisting individual countries in the adoption of the Living Atlas platform</li>
-                            <li>to develop a governance model acceptable to the community</li>
+                            <li>the deployment of a demo with several VMs. It will be helpful for newcomers or participants that need a demo data portal to show to their institution's decision-makers or to evaluate their future hardware or software requirements. The demo VMs, hosted by the GBIF Spain, will be kept for a few weeks after the session (depending on the other nodes necessities for similar help);</li>
+                            <li>the guidance of participants during the first deployment in their real production machines.</li>
                          </ul>   
                     </p>
 
-                    <p class="intro text-justify"> Those interested in the latest activities within the community can learn more from three presentations planned for the <a href="https://www.gbif.org/project/6AxerPwlnacq6S28iK0Gki">biodiversity_next conference</a> held in Leiden, Netherlands, in October 2019.</p>    
+                    <p class="intro text-justify"> During the sessions, the participants and Vicente will use the <a href="https://github.com/AtlasOfLivingAustralia/ala-install">ala-install ansible repository</a> with the help of the <a href="https://github.com/living-atlases/generator-living-atlas">Living Atlas Ansible Generator</a>.</p> 
+
+                    <p class="intro text-justify"> Already 3 participants did these remote sessions for deploying their demos and/or their production nodes:  </p>
+                    <p class="intro text-justify"> 
+                        <ul>
+                            <li>Biodiversity Atlas of Living Austria (@Georg);</li>
+                            <li>Biodiversity Atlas of Living Tanzania (@Finian Mwalongo, @Gerald Francis or @Meshack Victor);</li>
+                            <li>The <a href="https://vtecostudies.org/">Vermont Center for Ecostudies</a> in the US (Jason Loomis).</li>
+                         </ul>   
+                    </p>  
+                    <p class="intro text-justify"> We encourage you to contact them through Slack to have their feedback on their remote workshops</p> 
+
+                    <p class="intro text-justify"> You will find more information about the procedure in <a href="https://docs.google.com/document/d/1v_j7tHNGmEPu6RH1uv3mCUBc4FzHLmTvcpeLP4MR0o4/edit?usp=sharing">this document</a> and the technical instructions <a href="https://docs.google.com/document/d/1pNbT6suWcnyXaUcRhtLcsTfNNodtuIMO16CMaUGE0qA/edit?usp=sharing">here</a>.</p>
+
+                    <p class="intro text-justify"><b>Please contact Vicente by email or via Slack for future sessions</b>. </p>
+
+                    <p class="intro text-justify"> If you have any questions or if you don’t have access to the <a href="atlaslivingaustralia.slack.com">Slack channel</a>, please contact Vicente or Marie-Elise Lecoq.</p>
+
+
                 </div>
             </div> <!-- news-inner-->  
         </div><!--//container-->      
-        <div class="container">
-            <h2 class="title text-center"></h2> 
-            <div class="news-inner"> 
-                <div class="intro-div">
-                    <h3 class="sub-title">How to search and download biodiversity data in an Atlas</h3>
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/pEUp1B1pRxw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div> <!-- news-inner--> 
-        </div>  
-        <div class="container">   
-            <h2 class="title text-center"></h2>  
-            <div class="news-inner"> 
-                <div class="intro-div">
-                    <h3 class="sub-title">How to use regions/spatial module in an Atlas</h3>
-                    <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Uo64PUNuxXs" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div> <!-- news-inner-->  
-        </div>
     </section><!--//modules-->
