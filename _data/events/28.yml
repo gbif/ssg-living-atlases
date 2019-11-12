@@ -4,5 +4,30 @@ type: Conference
 description: <p class="text-justify">This symposium will take place during the Biodiversity_ Next conference in Leiden (The Netherlands).</p>
 date: October 22, 2019 - October 25, 2019
 place: Leiden, The Netherlands 
-valide: true
-presentation: false
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Marie-Elise Lecoq (Living Atlases Administrative coordinator - VertNet)"
+  title: "The Living Atlases Community of Practice"
+  link: "https://biss.pensoft.net/article/35779/"
+  type: "Talk"
+  ext: true 
+- id: "2"
+  speaker: "Cristina Villaverde (GBIF Spain)"
+  title: "Improving The Documentation For End Users Of Living Atlases Around The World"
+  link: "https://biss.pensoft.net/article/37071/"
+  type: "Talk"
+  ext: true 
+- id: "3"
+  speaker: "William Ulate Rodríguez(CRBio)"
+  title: "Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core "
+  link: "https://biss.pensoft.net/article/35474/"
+  type: "Talk"
+  ext: true 
+- id: "4"
+  speaker: "Tim Robertson (GBIF)"
+  title: "Aligning GBIF.org and the Atlas of Living Australia "
+  link: "https://biss.pensoft.net/article/35867/"
+  type: "Talk"
+  ext: true 

@@ -5,4 +5,35 @@ description: <p class="text-justify">This 5-day workshop will be funded for GBIF
 date: April 1, 2019 - April 5, 2019
 place: Paris, France - Museum national d'Histoire naturelle
 valide: false
-presentation: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Participants"
+  title: "Day 1 - Brief introductions from participants"
+  link: "https://drive.google.com/drive/folders/136ExCL6lPWL84b2X5HQnQh5GBlxKvAMl?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "2"
+  speaker: "Marie-Elise Lecoq (VertNet)"
+  title: "Day 1 - Living Atlases community"
+  link: "https://drive.google.com/file/d/15H_sy0KEqSwfzscp5HofifYHVU-eYffT/view?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "3"
+  speaker: "Manash Shah & Markus Skyttner (GBIF Sweden)"
+  title: "Day 3 - Intro to Docker"
+  link: "https://drive.google.com/file/d/1CK6GL5Pur85y7AfKO8F4O6azL1zNH5zd/view?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "4"
+  speaker: "Manash Shah & Markus Skyttner (GBIF Sweden)"
+  title: "Day 3 - ALA4R & Mirroreum"
+  link: "https://drive.google.com/file/d/1vLBYnFD3XmuyWivjkHbpfIwNY92unD1x/view?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "5"
+  speaker: "Dave Martin (ALA)"
+  title: "Paris CESP Workshop April 2019 - Exercises"
+  link: "https://docs.google.com/document/d/1efCVnXV9JxbKG6f-b4BtE_w8iQf-4bElEcRqINh5WfY/edit?usp=sharing"
+  type: "Exercises"
+  ext: true
