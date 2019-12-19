@@ -3,6 +3,12 @@
   country: Australia
   language: English
   status: Live
+  
+- institution: Biodiversity Atlas Austria
+  data-portal: http://www.biodiversityatlas.at/
+  country: Austria
+  language: German
+  status: Live
 
 - institution: Canadensys
   data-portal: http://data.canadensys.net/
@@ -139,12 +145,7 @@
   country: Tanzania
   status: Under development
 
-- institution: Biodiversity Atlas Austria
-  country: Austria
-  language: German
-  status: Under development
-
-- institution: Field Museum
+- institution: The Field Museum
   country: USA
   language: English
   status: Under development
