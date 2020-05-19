@@ -70,6 +70,12 @@
   language: Portugese
   status: Live
 
+- institution: GBIF Togo
+  data-portal: http://portail.togo.gbif.fr/
+  country: Togo
+  language: French
+  status: Live
+
 - institution: Instituto Chico Mendes de Conservaçao de Biodiversidad
   data-portal: http://portaldabiodiversidade.icmbio.gov.br/portal/
   country: Brazil
@@ -155,11 +161,6 @@
   language: English, German & French
   status: Under development
   
-- institution: GBIF Togo
-  country: Togo
-  language: French
-  status: Under development
-  
 - institution: Requêteur national des données biodiversité (MTES/AFB/UMS PatriNat)
   country: France
   language: French
@@ -169,7 +170,7 @@
   country: USA
   language: English
   status: Under development
-
+  
 - institution: GBIF Chile
   country: Chile
   status: In discussion
@@ -178,12 +179,20 @@
   country: Norway
   status: In discussion
   
-- institution: The Habitat Foundation
-  country: Ukraine
+- institution: Habitat Foundation
+  country: Netherlands
+  status: In discussion
+
+- institution: NLBIF
+  country: Netherlands
   status: In discussion
   
 - institution: Philippines Atlas of Biodiversity(PhAB)
   country: Philippines
+  status: In discussion
+
+- institution: SiB Colombia
+  country: Colombia
   status: In discussion
   
 - institution: TaiBIF
