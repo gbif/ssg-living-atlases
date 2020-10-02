@@ -10,9 +10,9 @@
                             <div class="button panel-heading" data-toggle="collapse" data-target="#{{ event.id }}">
                                 {% if event.type=="Portal" %}
                                     <span class="back-event back-event-portal">{{ event.type }}</span> {{ event.title }}
-                                {% elsif event.type=="Workshop" %}
+                                {% elsif event.type=="Workshop" or event.type=="Online workshop" %}
                                     <span class="back-event back-event-workshop">{{ event.type }}</span> {{ event.title }}
-                                {% elsif event.type=="Conference" %}
+                                {% elsif event.type=="Conference" or event.type=="Online conference" %}
                                     <span class="back-event back-event-conference">{{ event.type }}</span> {{ event.title }}
                                 {% elsif event.type=="Meeting" %}
                                     <span class="back-event back-event-meeting">{{ event.type }}</span> {{ event.title }}
