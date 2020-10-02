@@ -1,0 +1,27 @@
+id: "29"
+title: "TDWG Working Session"
+type: Online workshop
+description: <p class="text-justify">This workshop will focus on end-users. We will propose exercises to use different types of live data portals. Participants will be able to choose a data portal and will do the exercises based on the chosen platform. This workshop will help Living Atlases participants to promote their data portal, but also for people interested in the tools to discover the possibility given by a platform based on the Atlas of Living Australia toolset.</p>
+date: September 21, 2020 - September 25, 2020
+place: Online
+valide: false
+presentation: true
+materials:
+- id: "1"
+  speaker: "Clara Baringo Fonseca (Atlas SiBBr Data Manager), Marie-Elise Lecoq (Living Atlases Administrative coordinator), Tanja Lumetsberger (Biodiversity Atlas Austria Manager), Sylvain Morin (GBIF France Developer), Sophia Ratcliffe (NBN Atlas data manager), Manash Shah (SBDI/GBIF-Sweden Systems Architect), Carole Sinou (Canadensys Node Manager), Cristina Villaverde (GBIF Spain)"
+  title: "The Living Atlases workshop for end-user"
+  link: "https://drive.google.com/file/d/1OIhSiM9YqKm6KQwcNU2jHP9LprcpkMXi/view?usp=sharing"
+  type: "Talk"
+  ext: true 
+- id: "2"
+  speaker: "Clara Baringo Fonseca (Atlas SiBBr Data Manager), Marie-Elise Lecoq (Living Atlases Administrative coordinator), Tanja Lumetsberger (Biodiversity Atlas Austria Manager), Sylvain Morin (GBIF France Developer), Sophia Ratcliffe (NBN Atlas data manager), Manash Shah (SBDI/GBIF-Sweden Systems Architect), Carole Sinou (Canadensys Node Manager), Cristina Villaverde (GBIF Spain)"
+  title: "The Living Atlases workshop for end-user"
+  link: "https://www.youtube.com/watch?v=LVR4weoOoRQ&feature=youtu.be"
+  type: "Video"
+  ext: true 
+- id: "3"
+  speaker: "Clara Baringo Fonseca (Atlas SiBBr Data Manager), Marie-Elise Lecoq (Living Atlases Administrative coordinator), Tanja Lumetsberger (Biodiversity Atlas Austria Manager), Sylvain Morin (GBIF France Developer), Sophia Ratcliffe (NBN Atlas data manager), Manash Shah (SBDI/GBIF-Sweden Systems Architect), Carole Sinou (Canadensys Node Manager), Cristina Villaverde (GBIF Spain)"
+  title: "The Living Atlases workshop for end-user"
+  link: "https://coropad.lou.quebec/p/Living_Atlases_end-user_workshop_2020"
+  type: "Question and Answers"
+  ext: true
