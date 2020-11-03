@@ -153,12 +153,6 @@
   language: Spanish
   status: Live
   
-- institution: Vermont Center for Ecostudies
-  data-portal: https://val.vtecostudies.org/
-  country: USA
-  language: English
-  status: Live
-  
 - institution: Atlas of Living Tanzania
   country: Tanzania
   status: Under development
@@ -171,6 +165,11 @@
 - institution: GBIF Luxemburg
   country: Luxemburg
   language: English, German & French
+  status: Under development
+
+- institution: Vermont Center for Ecostudies
+  country: USA
+  language: English
   status: Under development
   
 - institution: GBIF Chile
