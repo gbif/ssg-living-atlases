@@ -134,6 +134,12 @@
   country: Isle of Man
   language: English
   status: Live
+
+- institution: OpenObs - Requêteur national des données biodiversité (MTES/AFB/UMS PatriNat)
+  data-portal: https://openobs.mnhn.fr/
+  country: France
+  language: French
+  status: Live
   
 - institution: Sistema de Informação Sobre a Biodiversidade Brasileira (SiBBr)
   data-portal: https://www.sibbr.gov.br/
@@ -161,10 +167,7 @@
   language: English, German & French
   status: Under development
   
-- institution: Requêteur national des données biodiversité (MTES/AFB/UMS PatriNat)
-  country: France
-  language: French
-  status: Under development
+
 
 - institution: Vermont Center for Ecostudies
   country: USA
@@ -173,10 +176,6 @@
   
 - institution: GBIF Chile
   country: Chile
-  status: In discussion
-  
-- institution: GBIF Norway
-  country: Norway
   status: In discussion
   
 - institution: Habitat Foundation
