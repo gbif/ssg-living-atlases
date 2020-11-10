@@ -38,27 +38,27 @@
   image_name: madrid_2015_3.jpg
   caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
 
-- id: 8
-  active: false
-  image_name: madrid_2015_5.jpg
-  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+#- id: 8
+#  active: false
+#  image_name: madrid_2015_5.jpg
+#  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
 
-- id: 9
-  active: false
-  image_name: madrid_2015_7.jpg
-  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
+#- id: 9
+#  active: false
+#  image_name: madrid_2015_7.jpg
+#  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
 
 # - id: 9
 #   active: false
 #   image_name: International-ala-workshop-2015-1.jpg
 #   caption: International ALA workshop 2015 - Paris, France <br /> Photo by Sophie Pamerlon, GBIF France
 
-- id: 10
+- id: 8
   active: false
   image_name: canberra1.jpg
   caption: International ALA workshop 2014 - Canberra, Australia <br /> Photo by Atlas of Living Australia
 
-- id: 11
+- id: 9
   active: false
   image_name: canberra2.jpg
   caption: International ALA workshop 2014 - Canberra, Australia <br /> Photo by Atlas of Living Australia
