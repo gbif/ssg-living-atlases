@@ -49,9 +49,9 @@
 #  caption: Atlas of Living Australia workshop 2015 - Madrid, Spain <br /> Photo by Marie-Elise Lecoq, , GBIF France
 
 - id: 7
-   active: false
-   image_name: International-ala-workshop-2015-1.jpg
-   caption: International ALA workshop 2015 - Paris, France <br /> Photo by Sophie Pamerlon, GBIF France
+  active: false
+  image_name: International-ala-workshop-2015-1.jpg
+  caption: International ALA workshop 2015 - Paris, France <br /> Photo by Sophie Pamerlon, GBIF France
 
 - id: 8
   active: false
