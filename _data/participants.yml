@@ -135,7 +135,7 @@
   language: English
   status: Live
 
-- institution: OpenObs - Requêteur national des données biodiversité (MTES/AFB/UMS PatriNat)
+- institution: OpenObs, portail français d'accès aux données d'observation sur les espèces (UMS Patrinat (OFB, CNRS, MNHN))
   data-portal: https://openobs.mnhn.fr/
   country: France
   language: French
