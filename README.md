@@ -1,3 +1,5 @@
+**Replaced by https://github.com/gbif/la-website**
+
 #  **Living Atlases** community website
 
 <p align="center">
